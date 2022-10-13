@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class FirstClass {
+public class FirstClass {
+
+    public static void main(String[] args) {
+        String a ="Hello, world!";
+        System.out.println(a);
+    }
 }
